@@ -59,7 +59,7 @@ hiit-app/
 1. **Clone the repository**:
 
      - git clone https://github.com/maxwei-git-repo/HIIT-max-git-repo.git
-     - cd hiit-app
+     - cd HIIT-max-git-repo
 
 2. **Install dependencies**:
 
